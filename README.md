@@ -58,7 +58,7 @@ I am a Data Analyst with experience in Power BI, Excel, SQL, and VBA. I focus on
 ### 3. Healthcare Insights Dashboard (Power BI)
 - Developed a Power BI dashboard to analyze hospital operations and patient data.  
 - Used DAX and time-intelligence functions for growth and cost analysis.
- ![health care dashboard](health care.png)
+ ![health care dashboard](healthcare.png)
 
 ---
 
