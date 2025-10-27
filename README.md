@@ -49,7 +49,7 @@ I am a Data Analyst with experience in Power BI, Excel, SQL, and VBA. I focus on
 - Used SQL for data extraction and transformation.  
 - Created KPI cards, DAX measures, and visuals to track performance trends.  
 - Delivered insights on seasonal sales and top-performing categories.
-  ![blinkit dashboard](/image(2).png)
+  ![blinkit dashboard](image(2).png)
 
 ### 2. Netflix Data Analysis (SQL)
 - Used SQL to analyze movie and TV show popularity across regions and years.  
@@ -58,7 +58,7 @@ I am a Data Analyst with experience in Power BI, Excel, SQL, and VBA. I focus on
 ### 3. Healthcare Insights Dashboard (Power BI)
 - Developed a Power BI dashboard to analyze hospital operations and patient data.  
 - Used DAX and time-intelligence functions for growth and cost analysis.
- ![health care dashboard](/image(1).png)
+ ![health care dashboard](image(1).png)
 
 ---
 
