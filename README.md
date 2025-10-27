@@ -1,75 +1,74 @@
-# vennelaresume
-# ðŸ“Š Vennela M â€“ Data Analyst
+# Vennela M - Data Analyst
 
-**Email:** [vennela.m2003@gmail.com](mailto:vennela.m2003@gmail.com)  
+**Email:** vennela.m2003@gmail.com  
 **Phone:** +91 96527 43406  
 **GitHub:** [github.com/MaliambakamVennela](https://github.com/MaliambakamVennela)  
 **LinkedIn:** [linkedin.com/in/m-vennela-0106md](https://www.linkedin.com/in/m-vennela-0106md)
 
 ---
 
-## ðŸš€ About Me
-Iâ€™m a **Data Analyst** with hands-on experience in **Power BI, Excel, SQL, and VBA**, passionate about transforming raw data into actionable business insights. Currently working at **NIQ, Chennai**, I specialize in **data visualization, reporting automation**, and **ETL process optimization** to drive strategic decisions.
+## About Me
+I am a Data Analyst with experience in Power BI, Excel, SQL, and VBA. I focus on transforming raw data into meaningful insights to support data-driven decision-making. Currently working at NIQ, Chennai, where I specialize in data visualization, reporting automation, and process optimization.
 
 ---
 
-## ðŸ§  Technical Skills
+## Technical Skills
 
-**Data & BI Tools:** Power BI, Excel (Advanced), VBA & Macros, SQL  
+**Data and BI Tools:** Power BI, Excel (Advanced), VBA and Macros, SQL  
 **Programming:** Java, HTML, CSS  
 **Concepts:** ETL Process, Data Cleaning, Data Visualization, Reporting Automation  
-**Other Tools:** Power Query, Power Automate, MS Office Suite  
+**Other Tools:** Power Query, Power Automate, MS Office Suite
 
 ---
 
-## ðŸ’¼ Work Experience
+## Work Experience
 
-### **Data Analyst â€“ NIQ, Chennai (Mar 2024 â€“ Present)**
-- Handled large datasets from global clients (NestlÃ© Purina, Coca-Cola, Mondelez, General Mills).  
-- Built **interactive Power BI dashboards** to enhance client reporting and visibility.  
-- Automated reports using **Excel VBA**, reducing manual work by 30%.  
-- Improved **ETL workflows**, ensuring seamless data integration.  
-- Recognized with **Global Monthly Award** and **Thumbs-Up Token Award**.  
-- Mentored new analysts and collaborated across teams to generate data-driven insights.  
-
----
-
-## ðŸŽ“ Education
-
-- **MCA â€“ Sri Venkateswara University** (2023â€“2025) â€“ *CGPA: 8.0 (Expected)*  
-- **B.Sc (M.S.Cs)** â€“ Sri Venkateswara University (2020â€“2023) â€“ *CGPA: 8.5*  
-- **Intermediate (MPC)** â€“ AP State Board (2018â€“2020) â€“ *CGPA: 7.2*  
-- **SSC** â€“ Z.P. High School, Kotha Aruru (2018) â€“ *CGPA: 8.8*  
+### Data Analyst - NIQ, Chennai (Mar 2024 - Present)
+- Managed large datasets from global clients including Nestle Purina, Coca-Cola, Mondelez, and General Mills.  
+- Built interactive Power BI dashboards to enhance reporting and visibility.  
+- Automated Excel-based reports using VBA, reducing manual effort by 30 percent.  
+- Improved ETL workflows to ensure seamless data integration and accuracy.  
+- Received Global Monthly Award and Thumbs-Up Token Award for innovation and teamwork.  
+- Mentored new analysts and collaborated with teams to deliver data-driven insights.
 
 ---
 
-## ðŸ§© Projects
+## Education
 
-### **1. Blinkit Sales Analysis Dashboard** *(Power BI, SQL, Excel)*
-- Designed a **Power BI dashboard** to analyze Blinkitâ€™s sales performance.  
-- Used **SQL** for data extraction and preprocessing.  
-- Built **KPI cards, DAX measures, and interactive visuals** to monitor sales trends.  
-- Delivered insights on seasonal patterns and top-performing categories.
-
-### **2. Netflix Data Analysis** *(SQL)*
-- Analyzed global viewing patterns using SQL joins, CTEs, and window functions.  
-- Extracted insights on content ratings, genres, and audience engagement.
-
-### **3. Healthcare Insights Dashboard** *(Power BI)*
-- Built a dashboard to visualize hospital operations and patient trends.  
-- Used **DAX** for growth analysis and **time intelligence** for cost tracking.
+- MCA - Sri Venkateswara University (2023-2025) - CGPA: 8.0 (Expected)  
+- B.Sc (M.S.Cs) - Sri Venkateswara University (2020-2023) - CGPA: 8.5  
+- Intermediate (MPC) - AP State Board (2018-2020) - CGPA: 7.2  
+- SSC - Z.P. High School, Kotha Aruru (2018) - CGPA: 8.8
 
 ---
 
-## ðŸ… Awards & Certifications
+## Projects
 
-- **Certified Java Full Stack Developer** â€“ J Spiders Hebbal  
-- **Global Monthly Award** â€“ NIQ  
-- **Thumbs-Up Token Award** â€“ NIQ  
-- **Volleyball Zonal Level Player**  
+### 1. Blinkit Sales Analysis Dashboard (Power BI, SQL, Excel)
+- Designed a Power BI dashboard to analyze Blinkit sales performance.  
+- Used SQL for data extraction and transformation.  
+- Created KPI cards, DAX measures, and visuals to track performance trends.  
+- Delivered insights on seasonal sales and top-performing categories.
+
+### 2. Netflix Data Analysis (SQL)
+- Used SQL to analyze movie and TV show popularity across regions and years.  
+- Applied joins, CTEs, and window functions to extract insights on trends and engagement.
+
+### 3. Healthcare Insights Dashboard (Power BI)
+- Developed a Power BI dashboard to analyze hospital operations and patient data.  
+- Used DAX and time-intelligence functions for growth and cost analysis.
 
 ---
 
-## ðŸ’¬ Letâ€™s Connect
-Open to collaborations, data-driven projects, and analytics roles.  
-ðŸ“§ [vennela.m2003@gmail.com](mailto:vennela.m2003@gmail.com)
+## Awards and Certifications
+
+- Certified Java Full Stack Developer - J Spiders Hebbal  
+- Global Monthly Award - NIQ  
+- Thumbs-Up Token Award - NIQ  
+- Volleyball Zonal Level Player
+
+---
+
+## Contact
+Open to collaborations, analytical roles, and data-driven projects.  
+**Email:** vennela.m2003@gmail.com
